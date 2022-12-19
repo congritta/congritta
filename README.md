@@ -1,6 +1,6 @@
 # Alex Congritta
 
-I`m __23 years old__. I do __React/Node__ projects
+I`m __23 years old__. I do __React/Node__ projects.
 
 ---
 
@@ -14,7 +14,7 @@ I`m __23 years old__. I do __React/Node__ projects
  - __TypeScript__. The language self and all it's magic;
  - __Python__. Rarely I do projects with Python. I know it some well
 
- ### Frameworks
+### Frameworks
   - __React__. I know more of React including hooks, state, ticks and how it all work. I work with most React libs including react-router, redux (however redux can be used outside of React), formik (or useForm.js) and so on;
   - __NodeJS__. I dont' like Express. I made [own HTTP framework](https://git.congritta.com/http-server-docs);
 
@@ -34,11 +34,11 @@ I`m __23 years old__. I do __React/Node__ projects
  - I do my work on time. It`s important to me. If a get problems or get having not enough time to finish my work, I say my customer about it for get the work replanned;
  - I've been doing coding most of my life. It`s my hobby. I like to learn and use something new
 
- ## My projects
+## My projects
 
-  - @congritta/http-server - the HTTP Server framework for Node.JS. [NPM](https://npmjs.com/package/@congritta/http-server). [GitHub](https://github.com//congritta/http-server). [Docs site](https://git.congritta.com/http-server-docs);
-  - cra-scaffold. A scaffold for creating react apps very fast. [Example](https://cra-scaffold.congritta.com). [Github](https://congritta.com/cra-scaffold).
-  - Talkings Messenger. At this time, only frontend implemented. [Site](https://talkings.congritta.com). [Github](https://github.com/talkings-front)
+  - __@congritta/http-server__ - the HTTP Server framework for Node.JS. [NPM](https://npmjs.com/package/@congritta/http-server). [GitHub](https://github.com//congritta/http-server). [Docs site](https://git.congritta.com/http-server-docs);
+  - __cra-scaffold__. A scaffold for creating react apps very fast. [Example](https://cra-scaffold.congritta.com). [Github](https://congritta.com/cra-scaffold).
+  - __Talkings Messenger__. At this time, only frontend implemented. [Site](https://talkings.congritta.com). [Github](https://github.com/talkings-front)
 
 ## My contacts
 
