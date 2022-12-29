@@ -24,7 +24,8 @@ I`m __23 years old__. I do __React/Node__ projects.
  - __Docker__. I can't understand why Docker is needed but I can use it. So I prefer BASH scripts;
  - __WebRTC__. I can do p2p apps;
  - __Linux based systems administations__. I can set VPS up to deploy & launch web apps and services
- - __Intergrate with REST APIs__. Give me API documentation and I intergrate your project with a service
+ - __Intergrate with REST APIs__. Give me API documentation and I intergrate your project with a service;
+ - __Web application scaling__. I know & can threads, load balancers, database replication and more
 
 ---
 
@@ -37,8 +38,8 @@ I`m __23 years old__. I do __React/Node__ projects.
 ## My projects
 
   - __@congritta/http-server__ - the HTTP Server framework for Node.JS. [NPM](https://npmjs.com/package/@congritta/http-server). [GitHub](https://github.com//congritta/http-server). [Docs site](https://git.congritta.com/http-server-docs);
-  - __cra-scaffold__. A scaffold for creating react apps very fast. [Example](https://cra-scaffold.congritta.com). [Github](https://congritta.com/cra-scaffold).
-  - __Talkings Messenger__. At this time, only frontend implemented. [Site](https://talkings.congritta.com). [Github](https://github.com/talkings-front)
+  - __cra-scaffold__. A scaffold for creating react apps very fast. [Example](https://cra-scaffold.congritta.com). [Github](https://congritta.com/cra-scaffold);
+  - __Talkings Messenger__. At this time, only frontend implemented. [Site](https://git.congritta.com/talkings-frontend). [Github](https://github.com/talkings-frontend)
 
 ## My contacts
 
