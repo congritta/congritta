@@ -45,3 +45,7 @@ I`m __23 years old__. I do __React/Node__ projects.
 
 Telegram: [@congritta](https://t.me/congritta)\
 E-Mail: congritta@gmail.com
+
+---
+
+[Версия сайта на русском языке](/ru.md)
