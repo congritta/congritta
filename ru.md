@@ -37,9 +37,11 @@
 
 ## Мои проекты
 
-  - __@congritta/http-server__ - библиотека для написания REST API. На мой взгляд, в разы лучше Express.JS. [NPM](https://npmjs.com/package/@congritta/http-server). [GitHub](https://github.com//congritta/http-server). [Документация](https://git.congritta.com/http-server-docs);
-  - __cra-scaffold__. Моя заготовка для создания FrontEnd веб-приложений всех мастей. [Потрогать](https://cra-scaffold.congritta.com). [Github](https://congritta.com/cra-scaffold);
-  - __Talkings Messenger__. Мой собственный мессенджер. В текущее время находится на стадии разработки. [Потрогать](https://git.congritta.com/talkings-frontend). [Github](https://github.com/talkings-frontend)
+  - __@congritta/http-server__ - библиотека для написания REST API. На мой взгляд, в разы лучше Express.JS. [NPM](https://npmjs.com/package/@congritta/http-server). [GitHub](https://github.com/congritta/http-server). [Документация](https://git.congritta.com/http-server-docs);
+  - __cra-scaffold__. Моя заготовка для создания FrontEnd веб-приложений всех мастей. [Потрогать](https://git.congritta.com/cra-scaffold). [Github](https://congritta.com/cra-scaffold);
+  - __Talkings Messenger__. Мой собственный мессенджер. В текущее время находится на стадии разработки. [Потрогать](https://git.congritta.com/talkings-frontend). [Github](https://github.com/talkings-frontend);
+  - __Blockchain Bot__. Создал свой блокчейн и криптовалюту на нём. Сделал в виде Telegram бот. [Бот](https://t.me/congrittaBlockchainBot). [Github](https://github.com/congritta/blockchain-bot);
+  - __Text-to-Speech Bot__. Telegram-бот, преобразовывающий текст в речь. [Бот](https://t.me/congrittaTtsBot). [Github](https://github.com/congritta/tts-bot)
 
 ## Контакты
 

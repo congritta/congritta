@@ -37,9 +37,11 @@ I`m __23 years old__. I do __React/Node__ projects.
 
 ## My projects
 
-  - __@congritta/http-server__ - the HTTP Server framework for Node.JS. [NPM](https://npmjs.com/package/@congritta/http-server). [GitHub](https://github.com//congritta/http-server). [Docs site](https://git.congritta.com/http-server-docs);
-  - __cra-scaffold__. A scaffold for creating react apps very fast. [Example](https://cra-scaffold.congritta.com). [Github](https://congritta.com/cra-scaffold);
-  - __Talkings Messenger__. At this time, only frontend implemented. [Site](https://git.congritta.com/talkings-frontend). [Github](https://github.com/talkings-frontend)
+  - __@congritta/http-server__ - the HTTP Server framework for Node.JS. [NPM](https://npmjs.com/package/@congritta/http-server). [GitHub](https://github.com/congritta/http-server). [Docs site](https://git.congritta.com/http-server-docs);
+  - __cra-scaffold__. A scaffold for creating react apps very fast. [Example](https://git.congritta.com/cra-scaffold). [Github](https://github.com/congritta/cra-scaffold);
+  - __Talkings Messenger__. At this time, only frontend implemented. [Site](https://git.congritta.com/talkings-frontend). [Github](https://github.com/congritta/talkings-frontend);
+  - __Blockchain Bot__. I made my own cryptocurrency blockchain as Telegram Bot. [Bot Link](https://t.me/congrittaBlockchainBot). [Github](https://github.com/congritta/blockchain-bot);
+  - __Text-to-Speech Bot__. This Telegram Bot can synthesize any text message to speech. [Bot Link](https://t.me/congrittaTtsBot). [Github](https://github.com/congritta/tts-bot)
 
 ## My contacts
 
