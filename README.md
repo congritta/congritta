@@ -15,8 +15,10 @@ I`m __23 years old__. I do __React/Node__ projects.
  - __Python__. Rarely I do projects with Python. I know it some well
 
 ### Frameworks
-  - __React__. I know more of React including hooks, state, ticks and how it all work. I work with most React libs including react-router, redux (however redux can be used outside of React), formik (or useForm.js) and so on;
-  - __NodeJS__. I dont' like Express. I made [own HTTP framework](https://git.congritta.com/http-server-docs);
+
+- __React__. I know more of React including hooks, state, ticks and how it all work. I work with most React libs
+  including react-router, redux (however redux can be used outside of React), formik (or useForm.js) and so on;
+- __NodeJS__. I dont' like Express. I made [own HTTP framework](https://yah.congritta.com);
 
 ### Other
  - __MongoDB__. Expect MongoDB basics I know & can & use indexes, aggregations and replicating;
@@ -38,9 +40,9 @@ I`m __23 years old__. I do __React/Node__ projects.
 ## My projects
 
 - __@congritta/http-server__ - the HTTP Server framework for
-  Node.JS. [NPM](https://npmjs.com/package/@congritta/http-server). [GitHub](https://github.com/congritta/http-server). [Docs site](https://git.congritta.com/http-server-docs);
-- __cra-scaffold__. A scaffold for creating react apps very
-  fast. [Example](https://git.congritta.com/cra-scaffold). [Github](https://github.com/congritta/cra-scaffold);
+  Node.JS. [NPM](https://npmjs.com/package/yet-another-http). [GitHub](https://github.com/congritta/yet-another-http). [Docs site](https://yah.congritta.com);
+- __CRA Scaffold__. A scaffold for creating react apps very
+  fast. [Example](https://cra.congritta.com). [Github](https://github.com/congritta/cra-scaffold);
 - __Talkings Messenger__. At this time, only frontend
   implemented. [Site](https://git.congritta.com/talkings-frontend). [Github](https://github.com/congritta/talkings-frontend);
 - __Blockchain Bot__. I made my own cryptocurrency blockchain as Telegram
