@@ -48,7 +48,9 @@
 - __Text-to-Speech Bot__. Telegram-бот, преобразовывающий текст в
   речь. [Бот](https://t.me/congrittaTtsBot). [Github](https://github.com/congritta/tts-bot);
 - __Todo App__. Простое Todo приложение, написанное на чистом
-  JavaScript. [Потрогать](https://git.congritta.com/todoshkas). [Github](https://github.com/congritta/todoshkas). [YouTube видео, как я делал это](https://youtu.be/c8iOL_Gq6sM)
+  JavaScript. [Потрогать](https://git.congritta.com/todoshkas). [Github](https://github.com/congritta/todoshkas). [YouTube видео, как я делал это](https://youtu.be/c8iOL_Gq6sM);
+- __Hoolie Auth__. Платформа для единой
+  аутентификации. [Документация/О Проекте](https://auth-docs.hoolie.org). [Демо](https://demo.auth.hoolie.org)
 
 ## Контакты
 

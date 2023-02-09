@@ -50,7 +50,9 @@ I`m __23 years old__. I do __React/Node__ projects.
 - __Text-to-Speech Bot__. This Telegram Bot can synthesize any text message to
   speech. [Bot Link](https://t.me/congrittaTtsBot). [Github](https://github.com/congritta/tts-bot);
 - __Todo App__. Simple Todo App written in pure
-  JavaScript. [Demo](https://git.congritta.com/todoshkas). [Github](https://github.com/congritta/todoshkas). [YouTube video how I did it](https://youtu.be/c8iOL_Gq6sM)
+  JavaScript. [Demo](https://git.congritta.com/todoshkas). [Github](https://github.com/congritta/todoshkas). [YouTube video how I did it](https://youtu.be/c8iOL_Gq6sM);
+- __Hoolie Auth__. Authentication
+  platform. [Docs/About](https://auth-docs.hoolie.org). [Demo](https://demo.auth.hoolie.org)
 
 ## My contacts
 
