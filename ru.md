@@ -50,7 +50,9 @@
 - __Todo App__. Простое Todo приложение, написанное на чистом
   JavaScript. [Потрогать](https://git.congritta.com/todoshkas). [Github](https://github.com/congritta/todoshkas). [YouTube видео, как я делал это](https://youtu.be/c8iOL_Gq6sM);
 - __Hoolie Auth__. Платформа для единой
-  аутентификации. [Документация/О Проекте](https://auth-docs.hoolie.org). [Демо](https://demo.auth.hoolie.org)
+  аутентификации. [Документация/О Проекте](https://auth-docs.hoolie.org). [Демо](https://demo.auth.hoolie.org);
+- __Blockchain Demo__. Маленькое веб-приложение, которое демонстрирует работу
+  блокчейна. [Site](https://git.congritta.com/blockchain-demo). [Github](https://github.com/congritta/blockchain-demo)
 
 ## Контакты
 

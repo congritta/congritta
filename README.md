@@ -39,7 +39,7 @@ I`m __23 years old__. I do __React/Node__ projects.
 
 ## My projects
 
-- __@congritta/http-server__ - the HTTP Server framework for
+- __Yet Another HTTP__ - the HTTP Server framework for
   Node.JS. [NPM](https://npmjs.com/package/yet-another-http). [GitHub](https://github.com/congritta/yet-another-http). [Docs site](https://yah.congritta.com);
 - __CRA Scaffold__. A scaffold for creating react apps very
   fast. [Example](https://cra.congritta.com). [Github](https://github.com/congritta/cra-scaffold);
@@ -52,7 +52,9 @@ I`m __23 years old__. I do __React/Node__ projects.
 - __Todo App__. Simple Todo App written in pure
   JavaScript. [Demo](https://git.congritta.com/todoshkas). [Github](https://github.com/congritta/todoshkas). [YouTube video how I did it](https://youtu.be/c8iOL_Gq6sM);
 - __Hoolie Auth__. Authentication
-  platform. [Docs/About](https://auth-docs.hoolie.org). [Demo](https://demo.auth.hoolie.org)
+  platform. [Docs/About](https://auth-docs.hoolie.org). [Demo](https://demo.auth.hoolie.org);
+- __Blockchain Demo__. Web site that demonstrates how do blockchain
+  work. [Site](https://git.congritta.com/blockchain-demo). [Github](https://github.com/congritta/blockchain-demo)
 
 ## My contacts
 
