@@ -54,7 +54,8 @@ I`m __23 years old__. I do __React/Node__ projects.
 - __Hoolie Auth__. Authentication
   platform. [Docs/About](https://auth-docs.hoolie.org). [Demo](https://demo.auth.hoolie.org);
 - __Blockchain Demo__. Web site that demonstrates how do blockchain
-  work. [Site](https://git.congritta.com/blockchain-demo). [Github](https://github.com/congritta/blockchain-demo)
+  work. [Site](https://git.congritta.com/blockchain-demo). [Github](https://github.com/congritta/blockchain-demo);
+- **Canvas & Socket.IO browser multiplayer game**. [Github](https://github.com/congritta/game-frontend)
 
 ## My contacts
 
