@@ -1,6 +1,6 @@
 # Alex Congritta
 
-23 года, React/Node разработчик.
+24 года, React/Node разработчик.
 
 ---
 
@@ -37,22 +37,7 @@
 
 ## Мои проекты
 
-- __Yet Another HTTP__ - библиотека для написания REST API. На мой взгляд, в разы лучше
-  Express.JS. [NPM](https://npmjs.com/package/yet-another-http). [GitHub](https://github.com/congritta/yet-another-http). [Документация](https://yah.congritta.com);
-- __CRA Scaffold__. Моя заготовка для создания FrontEnd веб-приложений всех
-  мастей. [Потрогать](https://cra.congritta.com). [Github](https://github.com/congritta/cra-scaffold);
-- __Talkings Messenger__. Мой собственный мессенджер. В текущее время находится на стадии
-  разработки. [Потрогать](https://git.congritta.com/talkings-frontend). [Github](https://github.com/congritta/talkings-frontend);
-- __Blockchain Bot__. Создал свой блокчейн и криптовалюту на нём. Сделал в виде Telegram
-  бот. [Бот](https://t.me/congrittaBlockchainBot). [Github](https://github.com/congritta/blockchain-bot);
-- __Text-to-Speech Bot__. Telegram-бот, преобразовывающий текст в
-  речь. [Бот](https://t.me/congrittaTtsBot). [Github](https://github.com/congritta/tts-bot);
-- __Todo App__. Простое Todo приложение, написанное на чистом
-  JavaScript. [Потрогать](https://git.congritta.com/todoshkas). [Github](https://github.com/congritta/todoshkas). [YouTube видео, как я делал это](https://youtu.be/c8iOL_Gq6sM);
-- __Hoolie Auth__. Платформа для единой
-  аутентификации. [Документация/О Проекте](https://auth-docs.hoolie.org). [Демо](https://demo.auth.hoolie.org);
-- __Blockchain Demo__. Маленькое веб-приложение, которое демонстрирует работу
-  блокчейна. [Site](https://git.congritta.com/blockchain-demo). [Github](https://github.com/congritta/blockchain-demo)
+Все имеющиется пет-проекты удалены. Ссылки на новые проекты будут доступны позже
 
 ## Контакты
 
